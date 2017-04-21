@@ -41,15 +41,16 @@ You must give a full effort on every group and individual project.
 ## Important Links And Notes
 
 
-[Slack Room - INSERT LINK HERE](https://www.slack.com/)
+[M/W Slack Channel: #04172017class](https://april2017.slack.com/messages/C41R89J13)  
+[T/Th Slack Channel: #04182017class](https://april2017.slack.com/messages/C42D7MYGN)
 
 -----------------------------------------
 
 
-[Homework Submission](http://bootcampspot.com)
+[Homework Submission](http://bootcampspot-v2.com)
 
 
-Live Office Hours: 45 minutes before class and 30 minutes after class
+Live Office Hours: 45 minutes before class / 30 minutes after class
 
 
 -----------------------------------------
@@ -58,7 +59,8 @@ Live Office Hours: 45 minutes before class and 30 minutes after class
 
 ##### The material covered in this syllabus is subject to change. Our academic team adjusts to the market rapidly.
 
-[All Class Recordings - INSERT LINK HERE](https://www.panopto.com)
+[All Monday/Wednesday Class Recordings](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22cf4d5be9-2480-4c07-95b1-2601b94dac72%22)  
+[All Tuesday/Thursday Class Recordings](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22f1f63877-98a8-4790-acd7-9675874b027d%22)  
 
 |	Lesson	|	Date (M/W)	|	Date (T/Th)	|	Coding Content	|	Recordings	|
 |	----------------------------	|	----------------------------	|	----------------------------	|	----------------------------	|	----------------------------	|
