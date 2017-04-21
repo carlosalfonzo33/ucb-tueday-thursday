@@ -65,7 +65,7 @@ Live Office Hours: 45 minutes before class / 30 minutes after class
 |	Lesson	|	Date (M/W)	|	Date (T/Th)	|	Coding Content	|	Recordings	|
 |	----------------------------	|	----------------------------	|	----------------------------	|	----------------------------	|	----------------------------	|
 |	1.1	|	Mon, Apr 17, 2017	|	Tue, Apr 18, 2017	|	Intro to Program / Intro to HTML 	|	[4/17/2017](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=034c81b6-8998-4058-9bff-88c165ae7e98) / [4/18/2017](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9e545ea2-d55f-4d9d-a513-3537c8d1388d)	|
-|	1.2	|	Wed, Apr 19, 2017	|	Thu, Apr 20, 2017	|	Intro to Git / Intro to CSS	|		|   [4/19/2017](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a5736344-de64-4170-b2dd-eab385789c02) / [4/20/2017]() /
+|	1.2	|	Wed, Apr 19, 2017	|	Thu, Apr 20, 2017	|	Intro to Git / Intro to CSS	|  [4/19/2017](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a5736344-de64-4170-b2dd-eab385789c02) / [4/20/2017]() |
 |	1.3	|	Sat, Apr 22, 2017	|	Sat, Apr 22, 2017	|	Intro to CSS Layouts	|		|
 |	2.1	|	Mon, Apr 24, 2017	|	Tue, Apr 25, 2017	|	Going Live with Heroku	|		|
 |	2.2	|	Wed, Apr 26, 2017   |	Thu, Apr 27, 2017	|	External CSS Styles	|		|
