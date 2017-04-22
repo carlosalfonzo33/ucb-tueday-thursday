@@ -41,15 +41,16 @@ You must give a full effort on every group and individual project.
 ## Important Links And Notes
 
 
-[Slack Room - INSERT LINK HERE](https://www.slack.com/)
+[M/W Slack Channel: #04172017class](https://april2017.slack.com/messages/C41R89J13)  
+[T/Th Slack Channel: #04182017class](https://april2017.slack.com/messages/C42D7MYGN)
 
 -----------------------------------------
 
 
-[Homework Submission](http://bootcampspot.com)
+[Homework Submission](http://bootcampspot-v2.com)
 
 
-Live Office Hours: 45 minutes before class and 30 minutes after class
+Live Office Hours: 45 minutes before class / 30 minutes after class
 
 
 -----------------------------------------
@@ -58,12 +59,13 @@ Live Office Hours: 45 minutes before class and 30 minutes after class
 
 ##### The material covered in this syllabus is subject to change. Our academic team adjusts to the market rapidly.
 
-[All Class Recordings - INSERT LINK HERE](https://www.panopto.com)
+[All Monday/Wednesday Class Recordings](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22cf4d5be9-2480-4c07-95b1-2601b94dac72%22)  
+[All Tuesday/Thursday Class Recordings](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22f1f63877-98a8-4790-acd7-9675874b027d%22)  
 
 |	Lesson	|	Date (M/W)	|	Date (T/Th)	|	Coding Content	|	Recordings	|
 |	----------------------------	|	----------------------------	|	----------------------------	|	----------------------------	|	----------------------------	|
-|	1.1	|	Mon, Apr 17, 2017	|	Tue, Apr 18, 2017	|	Intro to Program / Intro to HTML 	|		|
-|	1.2	|	Wed, Apr 19, 2017	|	Thu, Apr 20, 2017	|	Intro to Git / Intro to CSS	|		|
+|	1.1	|	Mon, Apr 17, 2017	|	Tue, Apr 18, 2017	|	Intro to Program / Intro to HTML 	|	[4/17/2017](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=034c81b6-8998-4058-9bff-88c165ae7e98) / [4/18/2017](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9e545ea2-d55f-4d9d-a513-3537c8d1388d)	|
+|	1.2	|	Wed, Apr 19, 2017	|	Thu, Apr 20, 2017	|	Intro to Git / Intro to CSS	|  [4/19/2017](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a5736344-de64-4170-b2dd-eab385789c02) / [4/20/2017]() |
 |	1.3	|	Sat, Apr 22, 2017	|	Sat, Apr 22, 2017	|	Intro to CSS Layouts	|		|
 |	2.1	|	Mon, Apr 24, 2017	|	Tue, Apr 25, 2017	|	Going Live with Heroku	|		|
 |	2.2	|	Wed, Apr 26, 2017   |	Thu, Apr 27, 2017	|	External CSS Styles	|		|
